@@ -7,7 +7,7 @@ version           '1.5.0'
 
 depends 'build-essential'
 depends 'xml'
-depends 'mysql'
+#depends 'mysql'
 depends 'yum-epel'
 depends 'windows'
 depends 'iis'
